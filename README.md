@@ -26,7 +26,7 @@ Here are a few projects I'm proud of:
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Your LinkedIn](#)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/akhils-2001-/)
 - **Email:** akhil20144@gmail.com
 - **Portfolio:** [Coming Soon or Link]
 
